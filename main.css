@@ -1,0 +1,21 @@
+#can{
+    border: 1px solid ;
+    display: block;
+    margin: auto;
+}
+.container
+{
+    display: grid;
+    grid-template-columns: 150px 400px;
+    width: 600px;
+    padding: 20px;
+    margin: auto;
+    box-shadow: 2px 3px 10px rgba(120,120,120,0.8),-2px 3px 10px rgba(120,120,120,0.8);
+
+}
+header{
+    text-align: center;
+}
+.game-info{
+    font-size: 1.5em;
+}
