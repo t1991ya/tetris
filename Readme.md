@@ -1,1 +1,1 @@
-having fun with Javascript and tetris
+#coding for fun 
